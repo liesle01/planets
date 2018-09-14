@@ -4,5 +4,8 @@ This is the sixth planet.
 
 =======
 The planet has rings.
+<<<<<<< HEAD
 This is the sixthe planet.
 >>>>>>> 7fd88c11e7a066ad7005cc6ea5f11cd1f21295ca
+=======
+>>>>>>> b50694940c3fc219ddbb6645edc1926615949227
